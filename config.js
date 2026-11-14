@@ -1,1 +1,1 @@
-globalThis.QUIZ_CONFIG = { url: '', key: '' };
+globalThis.QUIZ_CONFIG = {"url":"","key":""};
