@@ -1,0 +1,23 @@
+Ostrovy|Kanada|Baffinov ostrov;Baffin-Island,Viktóriin ostrov;Victoria-Island,Ellesmerov ostrov;Ellesmere-Island,Newfoundland;Newfoundland-island-Newfoundland-and-Labrador,Vancouverov ostrov;Vancouver-Island
+Ostrovy|Taliansko|Sicília;Sicily,Sardínia;Sardinia-island-Italy,Elba;Elba-island-Italy
+Ostrovy|Francúzsko|Korzika;Corsica
+Ostrovy|Grécko|Kréta;Crete,Rodos;Rhodes-island-Greece,Korfu;Corfu
+Ostrovy|Španielsko|Mallorca;Majorca,Menorca;Minorca,Ibiza;Ibiza,Tenerife;Tenerife-island-Spain
+Ostrovy|Japonsko|Honšu;Honshu,Hokkaidó;Hokkaido,Kjúšu;Kyushu,Šikoku;Shikoku-island-Japan
+Ostrovy|Filipíny|Luzon;Luzon,Mindanao;Mindanao
+Ostrovy|Indonézia|Sumatra;Sumatra,Jáva;Java-island-Indonesia,Bali;Bali-island-and-province-Indonesia
+Ostrovy|Austrália|Tasmánia;Tasmania,Kengurí ostrov;Kangaroo-Island
+Ostrovy|Rusko|Sachalin;Sakhalin-Island
+Ostrovy|Čína|Chaj-nan;Hainan
+Ostrovy|Dánsko|Bornholm;Bornholm
+Ostrovy|Švédsko|Gotland;Gotland-island-Sweden
+Polostrovy|Rusko|Kamčatka;Kamchatka-Peninsula,Kola;Kola-Peninsula,Tajmýr;Taymyr-Peninsula,Čukotka;Chukchi-Peninsula
+Polostrovy|Grécko|Peloponéz;Peloponnese,Chalkidiki;Chalcidice-peninsula-Greece
+Polostrovy|Egypt|Sinaj;Sinai-Peninsula
+Polostrovy|Mexiko|Baja California;Baja-California-peninsula-Mexico
+Polostrovy|Spojené štáty|Aljašský polostrov;Alaska-Peninsula,Floridský polostrov;Florida
+Polostrovy|Austrália|Cape York;Cape-York-Peninsula,Eyreov polostrov;Eyre-Peninsula
+Polostrovy|Francúzsko|Bretónsky polostrov;Brittany-region-France,Cotentin;Cotentin-Peninsula
+Polostrovy|Taliansko|Apeninský polostrov;Italy
+Polostrovy|Japonsko|Kii;Kii-Peninsula,Noto;Noto-Peninsula
+Polostrovy|Čína|Šan-tung;Shandong-Peninsula,Liao-tung;Liaodong-Peninsula

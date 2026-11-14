@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.dirname(fileURLToPath(import.meta.url));
+const dest=path.join(root,'dist');
+const url=process.env.SUPABASE_URL||'';
+const key=process.env.SUPABASE_PUBLISHABLE_KEY||'';
+if(Boolean(url)!==Boolean(key)) throw Error('Nastav obe premenné Supabase alebo nechaj obe prázdne.');
+if(url&&new URL(url).protocol!=='https:') throw Error('Supabase URL musí používať HTTPS.');
+if(key&&!key.startsWith('sb_publishable_')) throw Error('Použi výlučne publishable key (sb_publishable_).');
+fs.cpSync(path.join(root,'site'),dest,{recursive:true});
+fs.writeFileSync(path.join(dest,'config.js'),'globalThis.QUIZ_CONFIG = '+JSON.stringify({url,key})+';\n');
+fs.writeFileSync(path.join(dest,'.nojekyll'),'');
+console.log('Build pripravený v dist/');

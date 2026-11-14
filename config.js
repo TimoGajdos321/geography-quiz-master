@@ -1,0 +1,1 @@
+globalThis.QUIZ_CONFIG = { url: '', key: '' };
